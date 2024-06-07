@@ -1,3 +1,3 @@
 # RepoEquipo
 
-Hola esto es un repositorio
+Hola esto es un repositorio actualizado.
